@@ -1,6 +1,4 @@
-# API Testing and Automation using Postman
+# 831Dev NativeScript Talk
 
-https://github.com/831Dev/postman-talk
-
-https://github.com/831Dev/NodeMongoApi
+https://github.com/831Dev/nativescript-talk
 
